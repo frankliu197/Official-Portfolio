@@ -1,0 +1,19 @@
+[{
+        "icon": "mdi-github",
+        "info": "https://github.com/OlakunleS",
+        "link": "https://github.com/OlakunleS",
+        "type": "Github"
+    },
+    {
+        "icon": "mdi-email",
+        "info": "Kunle.Lan@outlook.com",
+        "link": "mailto:Kunle.Lan@outlook.com",
+        "type": "Email"
+    },
+    {
+        "icon": "mdi-linkedin",
+        "info": "https://www.linkedin.com/in/olakunle-s-a17557119/",
+        "link": "https://www.linkedin.com/in/olakunle-s-a17557119/",
+        "type": "Linkedin"
+    }
+]
