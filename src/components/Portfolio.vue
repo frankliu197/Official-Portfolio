@@ -64,11 +64,17 @@ export default Vue.extend({
 });
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .portfolio {
   line-height: 3.125rem;
   text-align: center;
 
+.horizontal-aligner {
+    .v-btn{
+      background-color: rgba(89, 165, 218);
+    }
+  }
+  
   .item-card-container {
     display: flex;
     justify-content: left;
