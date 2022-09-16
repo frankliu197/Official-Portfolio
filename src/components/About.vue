@@ -66,7 +66,7 @@ export default Vue.extend({
 {
   "en": {
     "title": "About Me",
-    "description-main": "My name is Olakunle Salami and I am a 4th Year an American transfer student",
+    "description-main": "My name is Olakunle Salami and I am a 4th Year American transfer student",
     "description": "At heart I am a digital artist who has a big interest in business marketing. I am fascinated with User interface and user experience which led me to push my craft. Whether its designing different web applications, recording videos, and promoting other businesses my ideas are limited by creativity. <br><br>If you're interested in my work please feel free to contact me. I love tackeling on different projects!",
     "resume-file": "Resume.pdf",
     "resume": "Resume"
