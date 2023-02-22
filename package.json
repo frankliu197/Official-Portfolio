@@ -10,7 +10,7 @@
         "lint": "vue-cli-service lint",
         "start": "node server.js",
         "i18n:report": "vue-cli-service i18n:report --src \"./src/**/*.?(js|vue)\" --locales \"./src/locales/**/*.json\"",
-        "deploy": "sh deploy.sh"
+        "deploy": "sh deploy.bat"
     },
     "dependencies": {
         "@mdi/js": "^6.5.95",
