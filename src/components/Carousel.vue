@@ -196,8 +196,8 @@ export default Vue.extend({
     .menu-overlay {
       background: linear-gradient(
         to bottom,
-        rgba(256, 256, 256, 0.6),
-        rgba(256, 256, 256, 0.1)
+        rgba(255, 255, 255, 0.6),
+        rgba(255, 255, 255, 0.1)
       );
     }
 
@@ -226,7 +226,7 @@ export default Vue.extend({
       background: linear-gradient(
         to bottom,
         rgba(0, 0, 0, 0.6),
-        rgba(256, 256, 256, 0.1)
+        rgba(255, 255, 255, 0.1)
       );
     }
 
