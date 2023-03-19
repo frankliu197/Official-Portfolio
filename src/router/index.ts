@@ -8,8 +8,8 @@ Vue.use(VueRouter)
 
 const routes: Array<RouteConfig> = [
   {
-    path: '/',
-    alias: '/home',
+    path: '/Official-Portfolio/',
+    alias: '/Official-Portfolio/home',
     name: 'Home',
     component: Home,
     meta: {
@@ -17,7 +17,7 @@ const routes: Array<RouteConfig> = [
     }
   },
   {
-    path: '/piano',
+    path: '/Official-Portfolio/piano',
     name: 'Piano',
     component: Piano,
     meta: {
@@ -25,7 +25,7 @@ const routes: Array<RouteConfig> = [
     }
   },
   {
-    path: '*',
+    path: '/Official-Portfolio/*',
     component: NotFound,
     meta: {
       defaultHeader: true,
