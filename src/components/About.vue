@@ -73,7 +73,7 @@ export default Vue.extend({
   },
   "es" : {
     "title": "Sobre Mi",
-    "resume-file": "Resume_es.pdf"
+    "resume-file": "Resume.pdf"
   },
   "zh" :{
     "title": "关于我" 
